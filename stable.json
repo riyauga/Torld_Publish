@@ -1,8 +1,8 @@
 {
     "versionName":  "1.5.3",
     "versionCode":  14,
-    "publishedAt":  "2026-08-28T11:58:43Z",
-    "changelog":  "",
+    "publishedAt":  "2026-08-28T12:05:25Z",
+    "changelog":  "优化体验",
     "artifacts":  {
                       "arm64-v8a":  {
                                         "url":  "https://github.com/riyauga/Torld_Publish/releases/download/v1.5.3/Torld_v1.5.3.apk",
