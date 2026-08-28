@@ -1,7 +1,7 @@
 {
     "versionName":  "1.5.2",
     "versionCode":  13,
-    "publishedAt":  "2026-08-28T10:57:02Z",
+    "publishedAt":  "2026-08-28T11:02:15Z",
     "changelog":  "修复设置无法保存问题",
     "artifacts":  {
                       "arm64-v8a":  {
