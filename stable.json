@@ -1,15 +1,15 @@
 {
     "versionName":  "1.6.0",
     "versionCode":  15,
-    "publishedAt":  "2026-08-28T13:18:15Z",
-    "changelog":  "",
+    "publishedAt":  "2026-08-28T14:08:55Z",
+    "changelog":  "更新教程文档",
     "artifacts":  {
                       "arm64-v8a":  {
                                         "url":  "https://github.com/riyauga/Torld_Publish/releases/download/v1.6.0/Torld_v1.6.0.apk",
                                         "mirrors":  [
                                                         "https://gitee.com/riyauga/Torld_Publish/releases/download/v1.6.0/Torld_v1.6.0.apk"
                                                     ],
-                                        "sha256":  "ea2d199c2826e59c939db23e0892123dd5cb51e11f3bd54b63b96e6646c6d5db"
+                                        "sha256":  "246d6d722f0667343cd09e4da1107a0664d209bcaf69d5953ffbce8b35688154"
                                     }
                   }
 }
