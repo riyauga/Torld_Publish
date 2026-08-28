@@ -1,15 +1,15 @@
 {
-  "versionName": "1.5.1",
-  "versionCode": 12,
-  "publishedAt": "2026-08-28T08:39:00Z",
-  "changelog": "1. 修复预览与应用错乱问题\n2. 优化电量消耗：2D 走系统静态壁纸，3D 增加省电策略\n3. 重构陀螺仪表现\n4. 优化压缩算法",
-  "artifacts": {
-    "arm64-v8a": {
-      "url": "https://gitee.com/riyauga/Torld_Publish/releases/download/v1.4.0/Torld_v1.4.0.apk",
-      "mirrors": [
-        "https://github.com/riyauga/Torld_Publish/releases/download/v1.4.0/Torld_v1.4.0.apk"
-      ],
-      "sha256": "4666CFDC5E5125EE234B79A7D6E837DF0638880D9051005B366BF5B9C2AF5979"
-    }
-  }
+    "versionName":  "1.5.2",
+    "versionCode":  13,
+    "publishedAt":  "2026-08-28T10:57:02Z",
+    "changelog":  "修复设置无法保存问题",
+    "artifacts":  {
+                      "arm64-v8a":  {
+                                        "url":  "https://github.com/riyauga/Torld_Publish/releases/download/v1.5.2/Torld_v1.5.2.apk",
+                                        "mirrors":  [
+                                                        "https://gitee.com/riyauga/Torld_Publish/releases/download/v1.5.2/Torld_v1.5.2.apk"
+                                                    ],
+                                        "sha256":  "86d66a1e1ebbda68574910e606fc3a5c5b8288242bb0cd0189aaedf412e42b23"
+                                    }
+                  }
 }
