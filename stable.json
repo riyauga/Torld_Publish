@@ -1,15 +1,15 @@
 {
-    "versionName":  "1.5.2",
-    "versionCode":  13,
-    "publishedAt":  "2026-08-28T11:02:15Z",
-    "changelog":  "修复设置无法保存问题",
+    "versionName":  "1.5.3",
+    "versionCode":  14,
+    "publishedAt":  "2026-08-28T11:15:59Z",
+    "changelog":  "",
     "artifacts":  {
                       "arm64-v8a":  {
-                                        "url":  "https://github.com/riyauga/Torld_Publish/releases/download/v1.5.2/Torld_v1.5.2.apk",
+                                        "url":  "https://github.com/riyauga/Torld_Publish/releases/download/v1.5.3/Torld_v1.5.3.apk",
                                         "mirrors":  [
-                                                        "https://gitee.com/riyauga/Torld_Publish/releases/download/v1.5.2/Torld_v1.5.2.apk"
+                                                        "https://gitee.com/riyauga/Torld_Publish/releases/download/v1.5.3/Torld_v1.5.3.apk"
                                                     ],
-                                        "sha256":  "86d66a1e1ebbda68574910e606fc3a5c5b8288242bb0cd0189aaedf412e42b23"
+                                        "sha256":  "c9ee94d7538a86a4badaef5d114b1de69dff027308c5e8d1fb85539d071ebfeb"
                                     }
                   }
 }
