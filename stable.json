@@ -1,15 +1,15 @@
 {
-    "versionName":  "1.5.3",
-    "versionCode":  14,
-    "publishedAt":  "2026-08-28T12:24:00Z",
+    "versionName":  "1.6.0",
+    "versionCode":  15,
+    "publishedAt":  "2026-08-28T13:18:15Z",
     "changelog":  "",
     "artifacts":  {
                       "arm64-v8a":  {
-                                        "url":  "https://github.com/riyauga/Torld_Publish/releases/download/v1.5.3/Torld_v1.5.3.apk",
+                                        "url":  "https://github.com/riyauga/Torld_Publish/releases/download/v1.6.0/Torld_v1.6.0.apk",
                                         "mirrors":  [
-                                                        "https://gitee.com/riyauga/Torld_Publish/releases/download/v1.5.3/Torld_v1.5.3.apk"
+                                                        "https://gitee.com/riyauga/Torld_Publish/releases/download/v1.6.0/Torld_v1.6.0.apk"
                                                     ],
-                                        "sha256":  "d843f245924f35f581f07f12e232833063ddccaeea8cb80b6feff53f1c4ba84c"
+                                        "sha256":  "ea2d199c2826e59c939db23e0892123dd5cb51e11f3bd54b63b96e6646c6d5db"
                                     }
                   }
 }
